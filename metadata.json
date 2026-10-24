@@ -1,0 +1,6 @@
+{
+  "name": "Visora — AI Visual Learning Platform",
+  "description": "Learn programming (Python, C, Java) and engineering mathematics through interactive visual explanations, step-by-step code execution simulators, animated concept diagrams, and an AI visual tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
